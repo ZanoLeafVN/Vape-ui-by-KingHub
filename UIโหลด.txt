@@ -8,7 +8,7 @@ local PresetColor = Color3.fromRGB(44, 120, 224)
 local CloseBind = Enum.KeyCode.RightControl
 
 local knixhub = Instance.new("ScreenGui")
-knixhub.Name = "KING HUB"
+knixhub.Name = "CHILLHUB"
 knixhub.Parent = game.CoreGui
 knixhub.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
