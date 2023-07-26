@@ -87,7 +87,7 @@ end
 
 function lib:Window(text, preset, closebind)
 CloseBind = closebind or Enum.KeyCode.RightControl
-PresetColor = preset or Color3.fromRGB(44, 120, 224)
+PresetColor = preset or Color3.fromRGB(60, 228, 64)
 fs = false
 local Main = Instance.new("Frame")
 local TabHold = Instance.new("Frame")
@@ -180,7 +180,7 @@ LoadTitle.BackgroundTransparency = 1.000
 LoadTitle.Position = UDim2.new(0.0432743616, 0, 0.1125011, 0)
 LoadTitle.Size = UDim2.new(0, 200, 0, 23)
 LoadTitle.Font = Enum.Font.GothamSemibold
-LoadTitle.Text = "KING HUB"
+LoadTitle.Text = "CHILLHUB"
 LoadTitle.TextColor3 = Color3.fromRGB(68, 68, 68)
 LoadTitle.TextSize = 12.000
 LoadTitle.TextXAlignment = Enum.TextXAlignment.Left
